@@ -1,0 +1,60 @@
+{
+  "Popular Movies": "فیلم های محبوب",
+  "Top Rated Movies": "Top Rated Movies",
+  "Upcoming Movies": "Upcoming Movies",
+  "Now Playing Movies": "Now Playing Movies",
+  "Popular TV Shows": "Popular TV Shows",
+  "Top Rated TV Shows": "Top Rated TV Shows",
+  "TV Shows Airing Today": "TV Shows Airing Today",
+
+  "Watch Trailer": "Watch Trailer",
+  "Explore more": "Explore more",
+
+  "Overview": "Overview",
+  "Videos": "ویدیو ها",
+  "Media Photos": "تصاویر",
+
+  "Cast": "هنرمندان",
+  "More like this": "More like this",
+
+  "Storyline": "Storyline",
+  "Release Date": "تاریخ انتشار",
+  "Runtime": "Runtime",
+  "Director": "کارگردان",
+  "Budget": "بودجه",
+  "Revenue": "فروش",
+  "Genre": "ژانر",
+  "Status": "وضعیت",
+  "Language": "زبان",
+  "Production": "تیم تولید",
+
+  "Backdrops": "Backdrops",
+  "Posters": "Posters",
+
+  "Known For": "Known For",
+  "Credits": "Credits",
+  "Person Photos": "Photos",
+  "(no biography)": "(no biography)",
+  "Known for": "حرفه",
+  "Place of birth": "محل تولد",
+  "Birthday": "تاریخ تولد",
+
+  "Acting Credits": "Acting",
+  "Production Credits": "Production",
+
+  "Type to search...": "Type to search...",
+  "Type something to search...": "Type something to search...",
+
+  "{numberOfReviews} Reviews": "{numberOfReviews} Reviews",
+
+  "{numberOfImages} Images": "{numberOfImages} Images",
+  "{numberOfVideos} Videos": "{numberOfVideos} Videos",
+
+  "as {character}": "as {character}",
+
+  "{count} items": "{count} items",
+  "Search result for: {currentSearch}": "Search result for: {currentSearch}",
+
+  "Error occurred on fetching": "Error occurred on fetching",
+  "Retry": "Retry"
+}
